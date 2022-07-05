@@ -41,17 +41,17 @@ global.APIKeys = {
 
 global.owner = ['Didula🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['💗Qeen Ashiya🧚']
+global.premium = ['💗Qeen ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94722068707'
 
-global.ownername = 'Didula🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = '🌹⃝⃘̉̉̉Yeshan Banayake🧚'
 
-global.botname = '💗Qeen Ashiya🧚'
+global.botname = '💗Nelushaـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚'
 
-global.footer = '©💗Qeen Ashiya🧚.'
+global.footer = '©💗Yeshanـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://chat.whatsapp.com/HtIuaAXYIJn5WkvI7zwD9x'
 
 global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Qeen Ashiya🧚'
+global.packname = '💗Nelushaـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚'
 
-global.author = '💗Qeen Ashiya🧚'
+global.author = '💗Yeshanـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾Bot➣♥️🧚'
 
 global.sessionName = 'session'
 

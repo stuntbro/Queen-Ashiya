@@ -20,6 +20,6 @@ World best multi device whatsapp bot🖤
 ## `Add you're season file`
 
 ## now `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackPanther-svg/Queen-Ashiya)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/stuntbro/Queen-Ashiya.git)
 
 [´𝙼𝚈 𝚗𝚞𝚖𝚋𝚎𝚛´](http://wa.me/94741671668)
